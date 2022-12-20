@@ -1,0 +1,17 @@
+D:\Учебная практика\Задание 11\lab11(graph)\lab11(graph)\bin\Debug\net6.0-windows\lab11(graph).exe
+D:\Учебная практика\Задание 11\lab11(graph)\lab11(graph)\bin\Debug\net6.0-windows\lab11(graph).deps.json
+D:\Учебная практика\Задание 11\lab11(graph)\lab11(graph)\bin\Debug\net6.0-windows\lab11(graph).runtimeconfig.json
+D:\Учебная практика\Задание 11\lab11(graph)\lab11(graph)\bin\Debug\net6.0-windows\lab11(graph).dll
+D:\Учебная практика\Задание 11\lab11(graph)\lab11(graph)\bin\Debug\net6.0-windows\lab11(graph).pdb
+D:\Учебная практика\Задание 11\lab11(graph)\lab11(graph)\obj\Debug\net6.0-windows\lab11(graph).csproj.AssemblyReference.cache
+D:\Учебная практика\Задание 11\lab11(graph)\lab11(graph)\obj\Debug\net6.0-windows\lab11_graph_.Form1.resources
+D:\Учебная практика\Задание 11\lab11(graph)\lab11(graph)\obj\Debug\net6.0-windows\lab11(graph).csproj.GenerateResource.cache
+D:\Учебная практика\Задание 11\lab11(graph)\lab11(graph)\obj\Debug\net6.0-windows\lab11(graph).GeneratedMSBuildEditorConfig.editorconfig
+D:\Учебная практика\Задание 11\lab11(graph)\lab11(graph)\obj\Debug\net6.0-windows\lab11(graph).AssemblyInfoInputs.cache
+D:\Учебная практика\Задание 11\lab11(graph)\lab11(graph)\obj\Debug\net6.0-windows\lab11(graph).AssemblyInfo.cs
+D:\Учебная практика\Задание 11\lab11(graph)\lab11(graph)\obj\Debug\net6.0-windows\lab11(graph).csproj.CoreCompileInputs.cache
+D:\Учебная практика\Задание 11\lab11(graph)\lab11(graph)\obj\Debug\net6.0-windows\lab11(graph).dll
+D:\Учебная практика\Задание 11\lab11(graph)\lab11(graph)\obj\Debug\net6.0-windows\refint\lab11(graph).dll
+D:\Учебная практика\Задание 11\lab11(graph)\lab11(graph)\obj\Debug\net6.0-windows\lab11(graph).pdb
+D:\Учебная практика\Задание 11\lab11(graph)\lab11(graph)\obj\Debug\net6.0-windows\lab11(graph).genruntimeconfig.cache
+D:\Учебная практика\Задание 11\lab11(graph)\lab11(graph)\obj\Debug\net6.0-windows\ref\lab11(graph).dll
